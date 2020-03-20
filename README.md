@@ -1,2 +1,1 @@
-# sprint
-sprint project
+this is nothing but a quick recipie
